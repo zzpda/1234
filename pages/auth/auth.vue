@@ -6,7 +6,7 @@
 			<button class="btn-box b-shadow" @click="getUserProfile">授权登录</button>
 			<button class="btn-box b-shadow" style="display: none"  @click="getLocation">授权获取地理信息</button>
 			<view class="title-box">
-				我已阅读且同意
+				我已阅读同意
 				<text class="text-color" @tap="handlerUserPro1">《用户协议》</text>
 				和
 				<text class="text-color" @tap="handlerUserPro2">《隐私政策》</text>
