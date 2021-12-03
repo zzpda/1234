@@ -1,0 +1,112 @@
+{
+	"autoid": 1,
+	"cno": "1",
+	"productname": "封藏1号",
+	"spec": "500ml*4瓶/箱",
+	"unit": "瓶",
+	"productclass": "习酿酱酒",
+	"py": null,
+	"qty_box": "4",
+	"price": "428"
+}, {
+	"autoid": 2,
+	"cno": "2",
+	"productname": "封藏2号",
+	"spec": "500ml*6瓶/箱",	
+	"unit": "瓶",
+	"productclass": "习酿酱酒",
+	"py": null,
+	"qty_box": "6",
+	"price": "368"
+}, {
+	"autoid": 3,
+	"cno": "3",
+	"productname": "封藏3号",
+	"spec": "500ml*6瓶/箱",
+	"unit": "瓶",
+	"productclass": "习酿酱酒",
+	"py": null,
+	"qty_box": "6",
+	"price": "278"
+}, {
+	"autoid": 4,
+	"cno": "4",
+	"productname": "封藏小酒",
+	"spec": "100m*30瓶/箱",	 
+	"unit": "瓶",
+	"productclass": "习酿酱酒",
+	"py": null,
+	"qty_box": "30",
+	"price": "45"
+}, {
+	"autoid": 5,
+	"cno": "5",
+	"productname": "习酿30年",
+	"spec": "500ml*6瓶/箱", 
+	"unit": "瓶",
+	"productclass": "习酿酱酒",
+	"py": null,
+	"qty_box": "6",
+	"price": "288"
+}, {
+	"autoid": 6,
+	"cno": "",
+	"productname": "习酿20年",
+	"spec": "5\t5\t习酿30年\tNULL\t500ml*6瓶/箱",	 
+	"unit": "瓶",
+	"productclass": "习酿酱酒",
+	"py": null,
+	"qty_box": "",
+	"price": ""
+}, {
+	"autoid": 7,
+	"cno": "",
+	"productname": "杜康测试",
+	"spec": "5\t5\t习酿30年\tNULL\t500ml*6瓶/箱",
+	"unit": "",
+	"productclass": "杜康典藏",
+	"py": null,
+	"qty_box": "",
+	"price": ""
+}, {
+	"autoid": 8,
+	"cno": "",
+	"productname": "杜康测试",
+	"spec": "",	 
+	"unit": "",
+	"py": null,
+	"qty_box": "",
+	"price": ""
+}, {
+	"autoid": 9,
+	"cno": "",
+	"productname": "杜康测试",
+	"spec": "",
+	"unit_id": 0,
+	"productclass_id": 0,
+	"unit": "",
+	"productclass": "",
+	"py": null,
+	"qty_box": "",
+	"price": ""
+}, {
+	"autoid": 10,
+	"cno": "",
+	"productname": "杜康测试",
+	"spec": "",
+	"unit_id": 0,
+	"unit": "",
+	"productclass": "",
+	"py": null,
+	"qty_box": "",
+	"price": ""
+}, {
+	"autoid": 11,
+	"cno": "",
+	"productname": "杜康测试",
+	"spec": "",
+	"unit": "",
+	"py": null,
+	"qty_box": "",
+	"price": ""
+}

@@ -1,0 +1,75 @@
+page {
+	height:100%;
+	width: 100%;
+	//background: #f6f6f6;
+	background: linear-gradient(#5595ff, #63e4e6); /* 标准的语法 */
+}
+.container{
+	height: 100%;//不能用数字表示
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	// justify-content: center;
+	align-items: center;
+}
+.title{
+	width: 98%;
+	display: flex;
+	justify-content: center;
+	font-size: 60rpx;
+	line-height: 120rpx;
+	color: #FFFFFF;
+	text-align: center;
+	margin-top: 30rpx;
+}
+.pwd-box{
+	width: 60%;
+	height: 100rpx;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+		margin-top:60rpx;
+}
+.item{
+	width:220rpx;
+	height:120rpx;
+	border-bottom: 1rpx solid #808080;
+	margin: 20rpx;
+}
+.center-box{
+	height: 60%;//不能用数字表示
+	width:80%;
+	// padding-left: 10rpx;
+	// padding-right: 10rpx;
+	margin-top:60rpx;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: space-around;//注意与space-between区别
+	flex-wrap: wrap;
+	
+	
+}
+.item-box{
+	height: 120rpx;
+	width: 120rpx;
+	margin: 15rpx 30rpx;
+	border-radius: 120rpx;
+	display: flex;
+	justify-content: center;
+	background: #848a8b;
+	text-align: center;
+	font-size: 60rpx;
+	line-height: 120rpx;
+	color: #FFFFFF;
+}
+.bottom-box{
+	width:60%;
+	font-size: 38rpx;
+	display: flex;
+	justify-content: space-between;
+	color: #828282;
+	font-weight: 500;
+}
+
+

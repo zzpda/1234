@@ -1,0 +1,75 @@
+<template>
+	<view class="container"> 
+		<image class="img-box" src="../../static/images/mm.jpg" ></image>
+		<text class="nameTxt">潘金莲</text>
+		<text class="vocationTxt">视觉设计师</text>
+		<!-- 喜欢，收藏，粉丝栏 -->
+		<view class="info-box">
+			<view class="info-item-box">
+				<view class="infoTxt">
+					喜欢
+				</view>
+				<view class="valueTxt">
+					12.5K
+				</view>			
+			</view>
+			
+			<view class="info-item-box">
+				<view class="infoTxt">
+					喜欢
+				</view>
+				<view class="valueTxt">
+					12.5K
+				</view>			
+			</view>
+			
+			<view class="info-item-box">
+				<view class="infoTxt">
+					喜欢
+				</view>
+				<view class="valueTxt">
+					12.5K
+				</view>			
+			</view>
+			
+		</view>
+		<!-- 四方格 -->
+		<view class="grid-box">
+			<view class="item-box">
+				<view class="img-box2">
+					<image class="img-phone" src="../../static/images/mine1/phone.png" mode=""></image>
+				</view>
+				App作品
+			</view>
+			
+			<view class="item-box" >
+				<view class="img-box2" style="background: #0f9ccc;">
+					<image class="img-phone" src="../../static/images/mine1/pc.png" mode=""></image>
+				</view>
+				App作品
+			</view>
+			
+			
+			<view class="item-box">
+				<view class="img-box2" style="background: #fc961b;">
+					<image class="img-phone" src="../../static/images/mine1/fivecolor.png" mode=""></image>
+				</view>
+				App作品
+			</view>
+			
+			<view class="item-box">
+				<view class="img-box2" style="background: #ff4949;">
+					<image class="img-phone" src="../../static/images/mine1/heart.png" mode=""></image>
+				</view>
+				App作品
+			</view>
+		</view> 
+	</view> 
+</template>
+
+<script>
+</script>
+
+<style>
+@import './mine1.scss';
+</style>

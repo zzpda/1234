@@ -1,0 +1,47 @@
+{
+	"bsonType": "object",
+	"required": [],
+	"permission": {
+		"read": true,
+		"create": true,
+		"update": true,
+		"delete": true
+	},
+	"properties": {
+		"_id": {
+			"description": "ID，系统自动生成"
+		},
+		"sno": {
+			"bsonType": "string",
+			"description": "销售单号"
+		},
+		"c_id": {
+			"bsonType": "string",
+			"description": "客户编号"
+		},			
+		"moneytotal_yinshou": {
+			"bsonType": "int",
+			"description": "总应收金额"
+		},
+		"moneytotal_shishou": {
+			"bsonType": "int",
+			"description": "总实收金额"
+		},
+		"money_type": {
+			"bsonType": "string",
+			"description": "收款方式"
+		},
+		"creater": {
+			"bsonType": "string",
+			"description": "创建人"
+		},
+		"create_date":{
+			"bsonType":"Timestamp",
+			"description":"创建时间"
+		},
+		"update_date":{
+			"bsonType":"Timestamp",
+			"description":"修改时间"
+		}
+	}
+}

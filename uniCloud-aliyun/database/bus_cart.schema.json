@@ -1,0 +1,63 @@
+{ 
+	"bsonType": "object",
+	"required": [],
+	"permission": {
+		"read": true,
+		"create": true,
+		"update": true,
+		"delete": true
+	},
+	"properties": {
+		"_id": {
+			"description": "ID，系统自动生成"
+		},
+		"autoid": {
+			"bsonType": "int",
+			"description": ""
+		},
+		"s_no": {
+			"bsonType": "string",
+			"description": "销售单号"
+		},
+		"c_id": {
+			"bsonType": "int",
+			"description": "客户编号"
+		},
+		"p_id": {
+			"bsonType": "int",
+			"description": "商品自动序号编号"
+		},
+		"p_name": {
+			"bsonType": "string",
+			"description": "产品名称"
+		},
+		"price": {
+			"bsonType": "int",
+			"description": "价格"
+		},
+		"qty": {
+			"bsonType": "int",
+			"description": "产品编号"
+		},
+		"unit": {
+			"bsonType": "string",
+			"description": "计价单位"
+		},
+		"money_yinshou": {
+			"bsonType": "int",
+			"description": "应收金额"
+		},
+		"money_shishou": {
+			"bsonType": "int",
+			"description": "实收金额"
+		},
+		"create_date": {
+			"bsonType": "Timestamp",
+			"description": "创建时间"
+		},
+		"update_date": {
+			"bsonType": "Timestamp",
+			"description": "创建时间"
+		}	 
+	}
+}

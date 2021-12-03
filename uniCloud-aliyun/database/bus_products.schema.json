@@ -1,0 +1,51 @@
+{
+	"bsonType": "object",
+	"required": [],
+	"permission": {
+		"read": true,
+		"create": true,
+		"update": true,
+		"delete": true
+	},
+	"properties": {
+		"_id": {
+			"description": "ID，系统自动生成"
+		},
+		"autoid": {
+			"bsonType": "int",
+			"description": ""
+		},
+		"cno": {
+			"bsonType": "string",
+			"description": "产品编号"
+		},
+		"productname": {
+			"bsonType": "string",
+			"description": "产品名称"
+		},
+		"spec": {
+			"bsonType": "string",
+			"description": "规格"
+		},
+		"unit": {
+			"bsonType": "string",
+			"description": "单位"
+		},
+		"productclass": {
+			"bsonType": "string",
+			"description": "产品分类"
+		},
+		"py": {
+			"bsonType": "string",
+			"description": "产品名称首字母"
+		},
+		"qty_box": {
+			"bsonType": "int",
+			"description": "箱规格"
+		},
+		"price": {
+			"bsonType": "int",
+			"description": "价格"
+		}
+	}
+}

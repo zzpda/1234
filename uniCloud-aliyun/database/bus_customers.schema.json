@@ -1,0 +1,71 @@
+{
+	"bsonType": "object",
+	"required": [],
+	"permission": {
+		"read": true,
+		"create": true,
+		"update": true,
+		"delete": true
+	},
+	"properties": {
+		"_id": {
+			"description": "ID，系统自动生成"
+		},
+		"autoid": {
+			"bsonType": "int",
+			"description": ""
+		},
+		"c_cno": {
+			"bsonType": "string",
+			"description": " "
+		},
+		"c_sex": {
+			"bsonType": "string",
+			"description": " "
+		},
+		"c_age": {
+			"bsonType": "string",
+			"description": ""
+		},
+		"c_name": {
+			"bsonType": "string",
+			"description": "客户姓名"
+		},
+		"c_addr": {
+			"bsonType": "string",
+			"description": "地址"
+		},
+		"c_phone1": {
+			"bsonType": "string",
+			"description": "电话号码1"
+		},
+		"c_phone2": {
+			"bsonType": "string",
+			"description": "电话号码2"
+		},
+		"c_company": {
+			"bsonType": "string",
+			"description": "公司名称"
+		},
+		"c_home": {
+			"bsonType": "string",
+			"description": "住址"
+		},
+		"c_txt": {
+			"bsonType": "string",
+			"description": ""
+		},
+		"firstZ": {
+			"bsonType": "string",
+			"description": "姓氏"
+		},
+		"firstE": {
+			"bsonType": "string",
+			"description": "姓氏首字母"
+		},
+		"isuse": {
+			"bsonType": "bool",
+			"description": "是否正常"
+		}
+	}
+}

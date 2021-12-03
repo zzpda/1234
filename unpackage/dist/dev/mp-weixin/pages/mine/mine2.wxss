@@ -1,0 +1,138 @@
+page {
+	height:100%;
+	width: 100%;
+	background: #e2e2e2;
+	/*background: linear-gradient(#5595ff, #8739e6); /* 标准的语法 *\/
+ */
+}
+.container{
+	height: auto;/*不能用数字表示
+ */
+	width: auto;
+	/* padding-left: 10rpx;
+ */
+	/* padding-right: 10rpx;
+ */
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.img-top{
+	width:100%;
+	height:280rpx;
+	z-index: 1;
+	/*display: none;
+ */
+	/*border-radius: 0 0 60rpx 60rpx;
+ */
+	/*background:#fd674d;
+ */
+}
+.img-user
+{
+	width:30rpx;
+	height:20rpx;
+	position:absolute;
+	top:100rpx;
+	left: 100rpx;
+	z-index:2;
+}
+/* 中间的钱包与积分栏
+ */
+.center-box{
+	width: 95%;
+	height: 220rpx;
+	background: #FFFFFF;
+	border: 15rpx;
+	border-radius: 25rpx ;
+	margin-top: -65rpx;
+	/*margin-top: 15rpx;
+ */
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	align-items: center;
+	z-index: 0;
+}
+.centeritem-box{
+	width: 50%;
+	height: 150rpx;
+	margin: 0 10rpx;
+	/*background: #4CD964;
+ */
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+.valueTxt{
+	font-size: 40rpx;
+	line-height: 90rpx;
+}
+.infoTxt{
+	font-size: 25rpx;
+}
+.order-box {
+	/*height: 250rpx;
+ */
+	height: auto;
+	width: 95%;	 
+	margin-top: 20rpx;
+	background:  #FFFFFF;
+	border-radius: 25rpx ;
+	display: flex;
+	flex-direction: column;
+	/*align-items: center;
+ */
+	justify-content: space-around;
+}
+.titleTxt{
+	font-size:40rpx ;
+	line-height: 80rpx;
+	margin: 10rpx 20rpx;
+	justify-content: flex-start;
+}
+.content-box{
+	height: 180rpx;
+	display: flex;
+	/*flex-direction: row;
+ */
+	border-radius: 25rpx;
+}
+.img-item {
+	width: 55rpx;
+	height: 50rpx;
+}
+.contentitem-box{
+	width: 120rpx;
+	margin: 10rpx;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+.itemnameTxt{
+	font-size:25rpx ;
+	line-height: 80rpx;
+}
+.item-box{
+	display:flex;
+	flex-direction: row;
+	margin: 20rpx;
+	align-items: center;
+	border-bottom: 1rpx solid #d8d8d8;
+}
+.nameTxt{
+	font-size:25rpx ;
+	line-height: 80rpx;
+	margin-left: 50rpx;
+}
+.img-more{
+	height: 25rpx;
+	width: 25rpx;
+	margin-left: auto;
+}
+.itembottom-box{
+	height: 80rpx;
+}
+
