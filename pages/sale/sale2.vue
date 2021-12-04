@@ -309,7 +309,7 @@
 			showProduct() { 
 				this.caleAllMomeny();
 				uni.navigateTo({
-					url: '../index/index'
+					url: '../index/index1'
 				});
 				getApp().globalData.isProdcutList = false;
 			},

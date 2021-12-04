@@ -1,9 +1,9 @@
 (global["webpackJsonp"] = global["webpackJsonp"] || []).push([["pages/custom/custom"],{
 
 /***/ 59:
-/*!***************************************************************************!*\
-  !*** K:/HBuilderProjects/云测试1/main.js?{"page":"pages%2Fcustom%2Fcustom"} ***!
-  \***************************************************************************/
+/*!****************************************************************!*\
+  !*** F:/vue学习/云测试1/main.js?{"page":"pages%2Fcustom%2Fcustom"} ***!
+  \****************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17,9 +17,9 @@ createPage(_custom.default);
 /***/ }),
 
 /***/ 60:
-/*!********************************************************!*\
-  !*** K:/HBuilderProjects/云测试1/pages/custom/custom.vue ***!
-  \********************************************************/
+/*!*********************************************!*\
+  !*** F:/vue学习/云测试1/pages/custom/custom.vue ***!
+  \*********************************************/
 /*! no static exports found */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -58,9 +58,9 @@ component.options.__file = "pages/custom/custom.vue"
 /***/ }),
 
 /***/ 61:
-/*!***************************************************************************************!*\
-  !*** K:/HBuilderProjects/云测试1/pages/custom/custom.vue?vue&type=template&id=dd7526b4& ***!
-  \***************************************************************************************/
+/*!****************************************************************************!*\
+  !*** F:/vue学习/云测试1/pages/custom/custom.vue?vue&type=template&id=dd7526b4& ***!
+  \****************************************************************************/
 /*! exports provided: render, staticRenderFns, recyclableRender, components */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -80,9 +80,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ 62:
-/*!***************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--16-0!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/template.js!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-uni-app-loader/page-meta.js!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib??vue-loader-options!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/style.js!K:/HBuilderProjects/云测试1/pages/custom/custom.vue?vue&type=template&id=dd7526b4& ***!
-  \***************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*!****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--16-0!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/template.js!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-uni-app-loader/page-meta.js!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib??vue-loader-options!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/style.js!F:/vue学习/云测试1/pages/custom/custom.vue?vue&type=template&id=dd7526b4& ***!
+  \****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
 /*! exports provided: render, staticRenderFns, recyclableRender, components */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -96,7 +96,7 @@ var components
 try {
   components = {
     unicloudDb: function() {
-      return Promise.all(/*! import() | node-modules/@dcloudio/uni-cli-shared/components/unicloud-db */[__webpack_require__.e("common/vendor"), __webpack_require__.e("node-modules/@dcloudio/uni-cli-shared/components/unicloud-db")]).then(__webpack_require__.bind(null, /*! @dcloudio/uni-cli-shared/components/unicloud-db.vue */ 140))
+      return Promise.all(/*! import() | node-modules/@dcloudio/uni-cli-shared/components/unicloud-db */[__webpack_require__.e("common/vendor"), __webpack_require__.e("node-modules/@dcloudio/uni-cli-shared/components/unicloud-db")]).then(__webpack_require__.bind(null, /*! @dcloudio/uni-cli-shared/components/unicloud-db.vue */ 148))
     }
   }
 } catch (e) {
@@ -130,9 +130,9 @@ render._withStripped = true
 /***/ }),
 
 /***/ 63:
-/*!*********************************************************************************!*\
-  !*** K:/HBuilderProjects/云测试1/pages/custom/custom.vue?vue&type=script&lang=js& ***!
-  \*********************************************************************************/
+/*!**********************************************************************!*\
+  !*** F:/vue学习/云测试1/pages/custom/custom.vue?vue&type=script&lang=js& ***!
+  \**********************************************************************/
 /*! no static exports found */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -146,153 +146,129 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ 64:
-/*!****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/babel-loader/lib!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--12-1!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/script.js!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib??vue-loader-options!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/style.js!K:/HBuilderProjects/云测试1/pages/custom/custom.vue?vue&type=script&lang=js& ***!
-  \****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*!*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--12-1!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/script.js!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib??vue-loader-options!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/style.js!F:/vue学习/云测试1/pages/custom/custom.vue?vue&type=script&lang=js& ***!
+  \*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-/* WEBPACK VAR INJECTION */(function(uni, uniCloud) {Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0; //
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
+/* WEBPACK VAR INJECTION */(function(uni, uniCloud) {Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0;
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var _vuex = __webpack_require__(/*! vuex */ 13); //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 //var that=this;
-var style = '';var _default =
-{
-  data: function data() {
-    return {
-      check: '',
-      id: '', //被选中客户的id(autoid)
+var style = '';var _default = { data: function data() {return { check: '', id: '', //被选中客户的id(autoid)
       customs: [], //全部客户
       filterCustom: [], //筛选后的客户数组
-      custom: {},
-      selCustom: {}, //被选中的客户
-      words: ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T',
-      'U', 'V', 'W', 'X', 'Y', 'Z'],
-
-      queryStr: '' //搜索字符串
-    };
-  },
-  onReady: function onReady() {},
-  onLoad: function onLoad() {},
-  onPullDownRefresh: function onPullDownRefresh() {},
-  methods: {
-    //获取全部客户信息
-    getCustoms: function getCustoms() {var _this = this;
-      uni.request({
-        url: "http://119.3.66.245:8006/api/Spirit/getCustomer",
-        success: function success(res) {
-          console.log(res);
-          var data = res.data.data;
-          _this.customs = data;
-          console.log("custom:" + JSON.stringify(_this.customs));
-        } });
-
-    },
-    filterCustoms: function filterCustoms(arr, str) {
-      // for(let i = 0; i < nameArr.length; i++) {
+      custom: {}, selCustom: {}, //被选中的客户
+      words: ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'], queryStr: '' //搜索字符串
+    };}, onReady: function onReady() {}, onLoad: function onLoad() {}, onPullDownRefresh: function onPullDownRefresh() {}, methods: { //获取全部客户信息
+    getCustoms: function getCustoms() {var _this = this;uni.request({ url: 'http://119.3.66.245:8006/api/Spirit/getCustomer', success: function success(res) {console.log(res);var data = res.data.data;_this.customs = data;console.log('custom:' + JSON.stringify(_this.customs));} });}, filterCustoms: function filterCustoms(arr, str) {// for(let i = 0; i < nameArr.length; i++) {
       //         filterCustom.push(aim.find(item => item.name = nameArr[i]))
       //     }
-      return arr.filter(function (item) {return item.firstZ == str;});
+      return arr.filter(function (item) {return item.firstZ == str;});}, //跳转至增加客户页面
+    showAddCustom: function showAddCustom() {getApp().globalData.initAddCustom = 'add';uni.navigateTo({ url: './addCustom' });}, filterByFirstE: function filterByFirstE(custom, E) {return custom.filter(function (item) {return item.firstE == E;});}, //选中客户,跳转到购物
+    selectCustom: function selectCustom(item) {console.log(item.autoid);getApp().globalData.selCustomId = item.autoid;getApp().globalData.selCustomName = item.c_name;if (!this.isLogin) {uni.navigateTo({
+          url: '../auth/auth' });
 
-    },
-    //跳转至增加客户页面
-    showAddCustom: function showAddCustom() {
-      getApp().globalData.initAddCustom = 'add';
-      uni.navigateTo({
-        url: './addCustom' });
+      } else
 
-    },
-    filterByFirstE: function filterByFirstE(custom, E) {
-      return custom.filter(function (item) {return item.firstE == E;});
-    },
-    //选中客户,跳转到购物
-    selectCustom: function selectCustom(item) {
-      console.log(item.autoid);
-      getApp().globalData.selCustomId = item.autoid;
-      getApp().globalData.selCustomName = item.c_name;
-      uni.redirectTo({
-        url: '../sale/sale2' });
+      {
+        uni.redirectTo({
+          url: '../sale/sale2' });
 
+      }
     },
     //删除操作
     deleteCust: function deleteCust() {
       var db = uniCloud.database();
       var collection = db.collection('bus_customers');
-      var res = collection.where({
+      var res = collection.
+      where({
         autoid: this.id }).
 
       update({
@@ -304,7 +280,7 @@ var style = '';var _default =
     },
     //点击删除
     handleDelete: function handleDelete(item) {var _this2 = this;
-      console.log("item:" + JSON.stringify(item));
+      console.log('item:' + JSON.stringify(item));
       this.id = item.autoid;
       uni.showModal({
         title: '提示',
@@ -312,7 +288,7 @@ var style = '';var _default =
         success: function success(res) {
           if (res.confirm) {
             console.log('用户点击确定');
-            console.log("id=" + _this2.id);
+            console.log('id=' + _this2.id);
             _this2.deleteCust();
           } else if (res.cancel) {
             console.log('用户点击取消');
@@ -323,7 +299,7 @@ var style = '';var _default =
     //查询
     queryCust: function queryCust() {var _this3 = this;
       uni.request({
-        url: "http://119.3.66.245:8006/api/Spirit/queryCustom",
+        url: 'http://119.3.66.245:8006/api/Spirit/queryCustom',
         header: {
           'Content-Type': 'application/json'
           //'Content-Type': 'application/x-www-form-urlencoded'
@@ -350,9 +326,9 @@ var style = '';var _default =
 /***/ }),
 
 /***/ 65:
-/*!*****************************************************************************************!*\
-  !*** K:/HBuilderProjects/云测试1/pages/custom/custom.vue?vue&type=style&index=0&lang=css& ***!
-  \*****************************************************************************************/
+/*!******************************************************************************!*\
+  !*** F:/vue学习/云测试1/pages/custom/custom.vue?vue&type=style&index=0&lang=css& ***!
+  \******************************************************************************/
 /*! no static exports found */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -366,9 +342,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ 66:
-/*!*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/mini-css-extract-plugin/dist/loader.js??ref--6-oneOf-1-0!./node_modules/css-loader/dist/cjs.js??ref--6-oneOf-1-1!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--6-oneOf-1-2!./node_modules/postcss-loader/src??ref--6-oneOf-1-3!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib??vue-loader-options!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/style.js!K:/HBuilderProjects/云测试1/pages/custom/custom.vue?vue&type=style&index=0&lang=css& ***!
-  \*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*!**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/mini-css-extract-plugin/dist/loader.js??ref--6-oneOf-1-0!./node_modules/css-loader/dist/cjs.js??ref--6-oneOf-1-1!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--6-oneOf-1-2!./node_modules/postcss-loader/src??ref--6-oneOf-1-3!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib??vue-loader-options!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/style.js!F:/vue学习/云测试1/pages/custom/custom.vue?vue&type=style&index=0&lang=css& ***!
+  \**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 

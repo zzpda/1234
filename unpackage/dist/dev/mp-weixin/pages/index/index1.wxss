@@ -1,0 +1,173 @@
+page {
+	height: 100%;
+	width: 100%;
+	background-color: #eeeeee;
+}
+.container {
+	height: 100%;
+	/* padding: 30rpx; */
+	display: flex;
+	flex-direction: column;
+}
+.add-box {
+	height: 80rpx;
+	width: 100%;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	border-bottom: 1rpx solid #c0c0c0;
+}
+.text-title {
+	margin-left: 20rpx;
+	align-items: center;
+	font-size: 30rpx;
+	color: #999999;
+}
+.scroll-Y {
+	padding: 5rpx;
+	flex: 1;
+	background: #ffffff;
+	margin-top: 2rpx;
+	border-radius: 20rpx;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	z-index: 0;
+}
+.bottom-box {
+	height: 200rpx;
+	width: 100%;
+	/*line-height: 200rpx;//line-height与height一样高时文字垂直居中
+ */
+	/* border-radius: 25rpx; */
+	background: #fa0000;
+	color: #dddddd;
+}
+.img-add {
+	width: 60rpx;
+	height: 60rpx;
+	margin-left: 650rpx;
+}
+.product-box {
+	width: 100%;
+	height: 180rpx;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	/* justify-content: center;
+ */
+	background: #ffffff;
+	border-bottom: 1rpx solid #c0c0c0;
+	font-size: 30rpx;
+	color: #626262;
+}
+.img-box {
+	margin-left: 20rpx;
+	width: 110rpx;
+	height: 110rpx;
+	border: 1rpx solid #c9dce6;
+	border-radius: 15rpx;
+}
+.info-box {
+	margin-left: 20rpx;
+	height: 140rpx;
+	width: 65%;
+}
+.productName {
+	font-size: 30rpx;
+	color: #333333;
+	height: 35%;
+}
+.info-other {
+	display: flex;
+	flex-direction: row;
+	font-size: 25rpx;
+	color: #bfbfbf;
+	height: 65%;
+	width: 100%;
+	/*background: #666666;
+ */
+}
+.info-left {
+	/* margin-left: 10rpx;
+ */
+	width: 230rpx;
+	font-size: 25rpx;
+	color: #bfbfbf;
+}
+.info-right {
+	width: 100rpx;
+	margin-left: 30rpx;
+	font-size: 25rpx;
+	color: #bfbfbf;
+}
+.img-edit {
+	width: 40rpx;
+	height: 40rpx;
+	margin-left: 15rpx;
+}
+.img-add {
+	margin-right: 20rpx;
+}
+.empty-box {
+	width: 100%;
+	height: 100rpx;
+	background: #ffffff;
+	/* display: none;
+ */
+}
+.bottom-box {
+	width: 100%;
+	height: 98rpx;
+	background: #ffffff;
+	display: flex;
+	/* 固定到底部
+ */
+	position: fixed;
+	bottom: 0px;
+	/*显示在最上层
+ */
+	z-index:2;
+	flex-direction: row;
+	border-top: 1rpx solid #4cd964;
+}
+.car-box {
+	height: 100rpx;
+	line-height: 100rpx;
+	width: 85%;
+	text-align: center;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+}
+.num-box {
+	height: 36rpx;
+	width: 36rpx;
+
+	margin-left: -20rpx;
+	border-radius: 40rpx;
+	background: #dd524d;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-top: -3rpx;
+	font-size: 3rpx;
+}
+.img-car {
+	width: 60rpx;
+	height: 60rpx;
+	margin-left: 15rpx;
+}
+.sum {
+	margin-left:40rpx;
+	color: #dd524d;
+}
+.ok-box {
+	height: 100rpx;
+	line-height: 100rpx;
+	width: 50%;
+	text-align: center;
+	background: red;
+} 
+

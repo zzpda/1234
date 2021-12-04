@@ -3,7 +3,7 @@ import Vuex from 'vuex'
 Vue.use(Vuex)
 const store = new Vuex.Store({
 	state:{
-		isLogin:false //定义登录状态
+		isLogin:true //定义登录状态 默认为false
 	},
 	mutations:{},
 	actions:{}

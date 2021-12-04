@@ -8,6 +8,7 @@
     "pages/custom/custom",
     "pages/sale/sale2",
     "pages/index/index",
+    "pages/index/index1",
     "pages/pwd/pwd",
     "pages/custom/addCustom",
     "pages/register/register",
@@ -49,6 +50,6 @@
       }
     ]
   },
-  "usingComponents": {},
-  "sitemapLocation": "sitemap.json"
+  "permission": {},
+  "usingComponents": {}
 }

@@ -75,7 +75,7 @@
 			...mapState(['isLogin'])
 		},
 		methods: {
-			handlerSale(){
+		handlerSale(){
 				if(!this.isLogin){
 					this.showAuth();
 				}
@@ -94,9 +94,10 @@
 				});
 			},
 			showProduct() {
+				console.log('点击了产品管理')
 				getApp().globalData.isProdcutList = true;
 				uni.navigateTo({
-					url: '../index/index'
+					url: '../index/index1'
 				});
 			},
 			showCustom() {
